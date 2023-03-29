@@ -1,5 +1,7 @@
 # README
 
+Try to follow this online book: https://devblast.com/c/master-ruby-web-apis (module 2)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
